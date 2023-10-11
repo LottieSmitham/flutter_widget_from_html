@@ -1,5 +1,6 @@
 {
-  "extends": [
+!#"extends": [
     "config:base"
   ]
 }
+ 
